@@ -1,2 +1,5 @@
 sass:
     sass_dir: assets/bootstrap/scss
+
+plugins:
+  - jekyll-get-json
