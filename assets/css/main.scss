@@ -33,7 +33,7 @@
 
 // Set this value low enough to ensure you get WCAG-compliant color contrast when Bootstrap auto-selects foreground color based on background color. Double check the result.
 // The yiq lightness value that determines when the lightness of color changes from "dark" to "light". Acceptable values are between 0 and 255.
-$yiq-contrasted-threshold:  100;
+$yiq-contrasted-threshold:  130;
 
 // Set the named colors used for feedback.
 // Success
