@@ -9,3 +9,5 @@ jekyll_get_json:
     json: 'https://feed2json.org/convert?url=https%3A%2F%2Ffeeds.buzzsprout.com%2F1341670.rss'
 
 # url: "https://pglevy.github.io/mm4t/"
+
+baseurl: /mm4t
