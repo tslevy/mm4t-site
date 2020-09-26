@@ -1,55 +1,60 @@
 {% include head.html %}
 
+<!-- Hero -->
 <section class="mmft-hero">
-
-<div class="container">
-
-<div class="row justify-content-end">
-  <div class="col-md-6">
-  <div class="card mt-6 mb-9 p-4 border-0 opacity-4">
-    <div class="card-body">
-      <p class="card-subtitle mb-2 text-muted h4">{{page.card-subtitle}}</p>
-      <h1 class="card-title display-4">{{page.card-title}}</h1>
-      <p class="card-text lead">{{page.card-body}}</p>
-      <a href="index.html#latest-episode" class="btn btn-lg btn-primary">{{page.card-button}}</a>
+  <div class="container">
+    <div class="row justify-content-end">
+      <div class="col-md-6">
+        <div class="card mt-6 mb-9 p-4 border-0 opacity-4">
+          <div class="card-body">
+            <p class="card-subtitle mb-2 text-muted h4">{{page.card-subtitle}}</p>
+            <h1 class="card-title display-4">{{page.card-title}}</h1>
+            <p class="card-text lead">{{page.card-body}}</p>
+            <a href="index.html#latest-episode" class="btn btn-lg btn-primary">{{page.card-button}}</a>
+          </div>
+        </div>
+      </div>
+      <!--col-->
     </div>
+    <!--row-->
   </div>
-
-</div> <!--col-->
-</div> <!--row-->
-</div> <!--container-->
+  <!--container-->
 </section>
 
+<!-- Podcast -->
 <section class="podcast-embed bg-secondary py-8">
-
-<div class="container">
-  <h2 id="latest-episode" class="text-white mb-2">Latest episode</h2>
-  <div class="col-sm-6 p-0 mb-4">
-    <p class="text-white">{{page.podcast-description}}</p>
+  <div class="container">
+    <h2 id="latest-episode" class="text-white mb-2">Latest episode</h2>
+    <div class="col-sm-6 p-0 mb-4">
+      <p class="text-white">{{page.podcast-description}}</p>
+    </div>
+    <div class="mb-2">
+      {% include podcast-embed.html %}
+    </div>
+    {% include subscribe-to-podcast.html %}
   </div>
-  <div class="mb-2">
-    {% include podcast-embed.html %}
-  </div>
-  {% include subscribe-to-podcast.html %}
-</div>
-
 </section>
 
-<section class="youtube-embed bg-light py-8">
-
-<div class="container">
-  <h2 id="latest-video" class="mb-2">Latest video</h2>
-  <div class="col-sm-6 p-0 mb-4">
-    <p class="">{{page.youtube-description}}</p>
+<!-- YouTube -->
+<section class="youtube-embed bg-dark py-8">
+  <div class="container">
+    <h2 id="latest-video" class="mb-2 text-white">Latest video</h2>
+    <div class="col-sm-6 p-0 mb-4">
+      <p class="text-white">{{page.youtube-description}}</p>
+    </div>
+    <div class="embed-responsive embed-responsive-16by9 mb-3">
+      {% include youtube-embed.html %}
+    </div>
+    {% include subscribe-to-youtube.html %}
   </div>
-  <div class="embed-responsive embed-responsive-16by9 mb-3">
-    {% include youtube-embed.html %}
-  </div>
-  {% include subscribe-to-youtube.html %}
-</div>
-
 </section>
 
-  {{content}}
+<!-- Who -->
+<section class="bg-light py-8">
+  <div class="container">
+    <h2 class="text-secondary text-center">{{page.who-heading}}</h2>
+    {% include who-card-deck.html %}
+  </div>
+</section>
 
 {% include foot.html %}

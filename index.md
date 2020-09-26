@@ -10,4 +10,18 @@ card-button: Check out my latest episode below
 podcast-description: "If you are a teenager, I want to let you know that now is the time to start saving for retirement. I know it sounds weird, but there is one main reason why doing so is a good idea, and that reason is time. You are still young, which means your money has more time to grow. This episode, I’m going to talk all about 401(k) and 403(b) retirement accounts."
 
 youtube-description: "How many of you have a great idea for a product or service, but you just don’t know how to tell people about it? Do you go to your parents, your friends, your teachers? How do you really get the word out, that you’re here? The way you do that is by marketing your product or service. This episode, I’m going to talk about 6 ways you can advertise your business to others."
+
+who-heading: Who should listen
+
+who1: Teens
+who1-description: Learning the basics of money as teens helps us create good saving and spending habits today and take advantage of investing for tomorrow.
+who1-icon: green-pig.png
+
+who2: Parents
+who2-description: Many parents struggle with their own finances and want to have constructive conversations with their teens about money.
+who2-icon: green-chat.png
+
+who3: Teachers
+who3-description: Teens don't learn much about personal finance in school. Teachers can use this information to better prepare their students.
+who3-icon: green-video.png
 ---
