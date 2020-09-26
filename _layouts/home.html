@@ -23,9 +23,14 @@
 <section class="podcast-embed bg-secondary py-8">
 
 <div class="container">
-  <h2 id="latest-episode" class="text-white mb-4">Latest episode</h2>
-{% include podcast-embed.html %}
-{% include subscribe-to-podcast.html %}
+  <h2 id="latest-episode" class="text-white mb-2">Latest episode</h2>
+  <div class="col-sm-6 p-0 mb-4">
+    <p class="text-white">{{page.podcast-description}}</p>
+  </div>
+  <div class="mb-2">
+    {% include podcast-embed.html %}
+  </div>
+  {% include subscribe-to-podcast.html %}
 </div>
 
 </section>
@@ -33,10 +38,14 @@
 <section class="youtube-embed bg-light py-8">
 
 <div class="container">
-  <h2 id="latest-video" class="mb-4">Latest video</h2>
-{% include youtube-embed.html %}
-<br>
-{% include subscribe-to-youtube.html %}
+  <h2 id="latest-video" class="mb-2">Latest video</h2>
+  <div class="col-sm-6 p-0 mb-4">
+    <p class="">{{page.youtube-description}}</p>
+  </div>
+  <div class="embed-responsive embed-responsive-16by9 mb-3">
+    {% include youtube-embed.html %}
+  </div>
+  {% include subscribe-to-youtube.html %}
 </div>
 
 </section>
