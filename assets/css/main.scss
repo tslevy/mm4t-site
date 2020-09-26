@@ -101,6 +101,10 @@ $input-btn-padding-x-lg:      1.5rem;
   opacity:1 !important;
 }
 
+.btn {
+  text-transform: uppercase;
+}
+
 .mmft-hero {
   background-image: url('{{site.baseurl}}/assets/img/micheile-henderson-SoT4-mZhyhE-unsplash.jpg');
   background-position: 50% 50%;
