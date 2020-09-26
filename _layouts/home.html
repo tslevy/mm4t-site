@@ -11,7 +11,7 @@
       <p class="card-subtitle mb-2 text-muted h4">{{page.card-subtitle}}</p>
       <h1 class="card-title display-4">{{page.card-title}}</h1>
       <p class="card-text lead">{{page.card-body}}</p>
-      <a href="#" class="btn btn-lg btn-primary">{{page.card-button}}</a>
+      <a href="index.html#latest-episode" class="btn btn-lg btn-primary">{{page.card-button}}</a>
     </div>
   </div>
 
@@ -20,6 +20,15 @@
 </div> <!--container-->
 </section>
 
+<section class="podcast-embed bg-secondary py-8">
+
+<div class="container">
+  <h2 id="latest-episode" class="text-white mb-4">Latest episode</h2>
+{% include podcast-embed.html %}
+{% include subscribe-to-podcast.html %}
+</div>
+
+</section>
 
   {{content}}
 
