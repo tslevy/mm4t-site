@@ -1,20 +1,7 @@
-<!doctype html>
-<html lang="en">
+{% include head.html %}
 
-<head>
-  <!-- Required meta tags -->
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-  <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="/assets/css/main.css">
-
-  <title>Hello, world!</title>
-</head>
-
-<body>
-
-  <div class="container">
+<section class="bg-{{page.background-color}} text-{{page.text-color}}">
+  <div class="container pt-5">
     <div class="row justify-content-center">
       <div class="col-12 col-sm-10 col-lg-8">
 
@@ -26,12 +13,6 @@
       </div>
     </div>
   </div>
+</section>
 
-  <!-- Optional JavaScript -->
-  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-  <script src="/assets/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="/assets/bootstrap/js/bootstrap.bundle.min.js.map"></script>
-</body>
-
-</html>
+{% include foot.html %}
