@@ -1,6 +1,4 @@
 ---
 title: MM4T
-layout: default
+layout: home
 ---
-
-# Hello World
