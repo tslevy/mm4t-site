@@ -1,20 +1,6 @@
-<!doctype html>
-<html lang="en">
+{% include head.html %}
 
-<head>
-  <!-- Required meta tags -->
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-  <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href={{ "/assets/css/main.css" | relative_url }}>
-
-  <title>Hello, world!</title>
-</head>
-
-<body>
-
-  <div class="container">
+  <div class="container mt-5 mb-5">
     <div class="row justify-content-center">
       <div class="col-12 col-sm-10 col-lg-8">
 
@@ -25,22 +11,18 @@
 
   <!-- Auto-generated list of episode links from RSS feed -->
   <ul class="list-unstyled mt-5">
-    {% for item in site.data.episodes.items %}
-    <li class="mb-5"><a href="#" class="h3 font-weight-normal">{{item.title}}</a>
+    {% for item in site.data.episodes.items limit:12 %}
+    <li class="mb-5"><a href="#" class="h3 font-weight-normal text-secondary">{{item.title}}</a>
       <span class="d-block text-muted">{{item.date_published | date: "%B %d, %Y"}}</span>
     </li>
     {% endfor %}
   </ul>
 
+  <p>To see all my episodes, <a href="https://mmft.buzzsprout.com/1341670" class="text-secondary text-underline">check out my podcast page on Buzzsprout</a>.</p>
 
 </div>
 </div>
 </div>
-  <!-- Optional JavaScript -->
-  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-  <script src={{ "/assets/bootstrap/js/bootstrap.bundle.min.js" | relative_url }}></script>
-  <script src={{ "/assets/bootstrap/js/bootstrap.bundle.js.map" | relative_url }}></script>
-</body>
 
-</html>
+
+{% include foot.html %}
