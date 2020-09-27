@@ -1,6 +1,7 @@
 {% include head.html %}
 
-  <div class="container mt-5 mb-5">
+<section class="bg-primary-lightest">
+  <div class="container py-5">
     <div class="row justify-content-center">
       <div class="col-12 col-sm-10 col-lg-8">
 
@@ -13,16 +14,16 @@
   <ul class="list-unstyled mt-5">
     {% for item in site.data.episodes.items limit:12 %}
     <li class="mb-5"><a href="#" class="h3 font-weight-normal text-secondary">{{item.title}}</a>
-      <span class="d-block text-muted">{{item.date_published | date: "%B %d, %Y"}}</span>
+      <span class="d-block">{{item.date_published | date: "%B %d, %Y"}}</span>
     </li>
     {% endfor %}
   </ul>
 
-  <p>To see all my episodes, <a href="https://mmft.buzzsprout.com/1341670" class="text-secondary text-underline">check out my podcast page on Buzzsprout</a>.</p>
+  <p>To see all my episodes, <a href="https://mmft.buzzsprout.com/1341670" class="">check out my podcast page on Buzzsprout</a>.</p>
 
 </div>
 </div>
 </div>
-
+</section>
 
 {% include foot.html %}

@@ -24,11 +24,13 @@ $font-size-base:              1.125rem;
 //////////////
 
 // Set the primary and secondary brand colors.
-$primary:    #20bf55;
+$primary:    #20603C;
 $secondary:    #0B4F6C;
 
 // Create variations because Bootstrap doesn't handle this well yet.
-// $primary-light: ;
+$primary-light: #20bf55;
+$primary-lighter: #8FDFAA;
+$primary-lightest: #E3F7EA;
 // $primary-dark: ;
 // $secondary-light: ;
 // $secondary-dark: ;
@@ -49,6 +51,15 @@ $yiq-contrasted-threshold:  130;
 
 // Grays
 // Go with default grays for now.
+
+// Links
+//
+// Style anchor elements.
+
+// $link-color:                              theme-color("primary") !default;
+$link-decoration:                         underline;
+// $link-hover-color:                        darken($link-color, 15%) !default;
+$link-hover-decoration:                   none;
 
 //////////////
 // Spacing
@@ -119,6 +130,18 @@ $input-btn-padding-x-lg:      1.5rem;
   min-height: 640px;
 }
 
-.text-underline {
-  text-decoration: underline;
+.text-primary-light {
+  color: $primary-light;
+}
+
+.bg-primary-light {
+  background-color: $primary-light;
+}
+
+.bg-primary-lighter {
+  background-color: $primary-lighter;
+}
+
+.bg-primary-lightest {
+  background-color: $primary-lightest;
 }
