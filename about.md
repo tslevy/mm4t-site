@@ -24,7 +24,7 @@ When I'm not working on this podcast, I enjoy making music with my mom and playi
 ## Thanks!
 
 I couldn't do this all myself, so I wanted to give a few shout-outs!
-- Mom for helping me record the podcast.
+- Mom for helping me record and edit the podcast.
 - Dad for helping me with the website.
 - My brother for making the drawing of me.
 - Micheile Henderson for her [photo on Unsplash](https://unsplash.com/photos/SoT4-mZhyhE){: .text-white .text-underline}.
