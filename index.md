@@ -24,4 +24,6 @@ who2-icon: green-chat.png
 who3: Teachers
 who3-description: Teens don't learn much about personal finance in school. Teachers can use this information to better prepare their students.
 who3-icon: green-video.png
+
+button-style: light
 ---
