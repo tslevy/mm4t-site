@@ -14,7 +14,8 @@
   <ul class="list-unstyled mt-5">
     {% for item in site.data.episodes.items limit:12 %}
     <li class="mb-5"><a href="#" class="h3 font-weight-normal text-secondary">{{item.title}}</a>
-      <span class="d-block">{{item.date_published | date: "%B %d, %Y"}}</span>
+      <div class="d-block text-gray h5 mt-2">{{item.date_published | date: "%B %d, %Y"}}</div>
+      <div>{{item.content_html | truncate: 200, "…"}}</div>
     </li>
     {% endfor %}
   </ul>
