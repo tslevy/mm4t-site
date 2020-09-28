@@ -134,6 +134,27 @@ $input-btn-padding-x-lg:      1.5rem;
   color: $primary-light;
 }
 
+.text-primary-light:hover, .text-primary-light:active, .text-primary-light:focus {
+  color: darken($primary-light, 10%);
+}
+
+
+.text-primary-lighter {
+  color: $primary-lighter;
+}
+
+.text-primary-lighter:hover, .text-primary-lighter:active, .text-primary-lighter:focus {
+  color: darken($primary-lighter, 10%);
+}
+
+.text-primary-lightest {
+  color: $primary-lightest;
+}
+
+.text-primary-lightest:hover, .text-primary-lightest:active, .text-primary-lightest:focus {
+  color: darken($primary-lightest, 10%);
+}
+
 .bg-primary-light {
   background-color: $primary-light;
 }
@@ -148,4 +169,8 @@ $input-btn-padding-x-lg:      1.5rem;
 
 .text-gray {
   color: $gray-700;
+}
+
+.navbar li.active {
+  border-bottom: 4px solid $primary-light;
 }
