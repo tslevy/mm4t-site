@@ -10,7 +10,17 @@
   {{content}}
   {% include subscribe-to-podcast.html %}
 
-  <!-- Auto-generated list of episode links from RSS feed -->
+
+  <ul class="list-unstyled mt-4">
+    {% for post in site.posts %}
+      <li class="border-top pt-4 mb-4">
+        <div>{{ post.content }}</div>
+      </li>
+    {% endfor %}
+  </ul>
+
+
+  <!-- Auto-generated list of episode links from RSS feed
   <ul class="list-unstyled mt-5">
     {% for item in site.data.episodes.items limit:12 %}
     <li class="mb-5"><a href="#" class="h3 font-weight-normal text-secondary">{{item.title}}</a>
@@ -19,7 +29,7 @@
     </li>
     {% endfor %}
   </ul>
-
+-->
   <p>To see all my episodes, <a href="https://mmft.buzzsprout.com/1341670" class="">check out my podcast page on Buzzsprout</a>.</p>
 
 </div>
