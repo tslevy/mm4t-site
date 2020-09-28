@@ -9,3 +9,5 @@ jekyll_get_json:
     json: 'feed.json'
 
 baseurl: /mm4t-site
+
+permalink: /:categories/:year/:month/:day/:title:output_ext
