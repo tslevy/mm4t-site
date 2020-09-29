@@ -8,7 +8,12 @@ jekyll_get_json:
   - data: episodes
     json: 'feed.json'
 
-baseurl: /mm4t-site
+#live
+url: "https://www.moneymovesforteens.com"
+baseurl: "/"
+
+#local
+# baseurl: /mm4t-site
 
 permalink: /:categories/:year/:month/:day/:title:output_ext
 
