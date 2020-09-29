@@ -11,3 +11,5 @@ jekyll_get_json:
 baseurl: /mm4t-site
 
 permalink: /:categories/:year/:month/:day/:title:output_ext
+
+title: Money Moves for Teens Podcast

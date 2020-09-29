@@ -5,16 +5,16 @@
   </button>
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav mr-auto">
-      <li class="nav-item px-4">
+      <li class="nav-item px-4 {% if page.url == '/' %}active{% endif %}">
         <a class="nav-link text-dark" href="{{site.baseurl}}/">Home</a>
       </li>
-      <li class="nav-item px-4">
+      <li class="nav-item px-4 {% if page.permalink == 'episodes' %}active{% endif %}">
         <a class="nav-link text-dark" href="episodes">Episodes</a>
       </li>
-      <li class="nav-item px-4">
+      <li class="nav-item px-4 {% if page.permalink == 'contribute' %}active{% endif %}">
         <a class="nav-link text-dark" href="contribute">Contribute</a>
       </li>
-      <li class="nav-item px-4">
+      <li class="nav-item px-4 {% if page.permalink == 'about' %}active{% endif %}">
         <a class="nav-link text-dark" href="about">About</a>
       </li>
     </ul>
