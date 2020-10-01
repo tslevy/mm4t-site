@@ -7,9 +7,9 @@ card-title: Money Moves for Teens Podcast
 card-body: I’m Talia, and I created this podcast because I think kids my age don’t get a good enough education on how to manage money. This is something we should be learning and talking about now so we’ll be better prepared for the future.
 card-button: Check out my latest episode below
 
-podcast-description: "If you are a teenager, I want to let you know that now is the time to start saving for retirement. I know it sounds weird, but there is one main reason why doing so is a good idea, and that reason is time. You are still young, which means your money has more time to grow. This episode, I’m going to talk all about 401(k) and 403(b) retirement accounts."
+podcast-description: "If you’re a teenager listening to this episode, I want to let you know that now is the time to start saving for retirement. I know it sounds crazy, but there is one main reason why doing so is a good idea, and that reason is time. You are still young, which means your money has more time to grow. This episode, I’m going to talk all about Traditional IRA and Roth IRA retirement accounts."
 
-youtube-description: "How many of you have a great idea for a product or service, but you just don’t know how to tell people about it? Do you go to your parents, your friends, your teachers? How do you really get the word out, that you’re here? The way you do that is by marketing your product or service. This episode, I’m going to talk about 6 ways you can advertise your business to others."
+youtube-description: "Spending money can be really fun, especially when it’s money you know you’ve worked for and have been waiting for the moment to spend it on what you want! But, once you make your purchase, sometimes, there’s guilt that comes after. Should I have saved that money instead? Or given it to an organization that needed it more than me? Or maybe you get money and after a week, you have no idea where it went! You’ve spent it all, but you forgot what on. A way to take control of your saving and spending, while creating mental freedom when it comes to your finances, is to start budgeting. This episode, I’m going to talk about what budgeting is, and 7 ways budgeting can help you with your money."
 
 who-heading: Who should listen
 
