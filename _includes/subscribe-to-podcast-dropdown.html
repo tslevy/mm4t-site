@@ -1,0 +1,10 @@
+<div class="dropdown">
+  <button class="btn btn-outline-secondary dropdown-toggle" type="button" id="subscribe-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Subscribe
+  </button>
+  <div class="dropdown-menu dropdown-menu-right" aria-labelledby="subscribe-dropdown">
+    {% for host in site.data.hosts %}
+    <a class="dropdown-item" href="{{ host.url }}">{{ host.name }}</a>
+    {% endfor %}
+  </div>
+</div>
