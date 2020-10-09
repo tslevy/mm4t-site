@@ -6,7 +6,7 @@ external-url: https://www.buzzsprout.com/1341670/episodes/5800249
 
 ## {{page.title}}
 
-OCTOBER 8, 2020
+OCTOBER 08, 2020
 
 As teenagers, we have many things on our plates. We have to account for school, chores, exercise, and more. And when you throw running a business into the mix, it gets even more complicated. This episode, I’m going to help you out with that problem by talking about 7 tips on how to manage your time when dealing with both, school and a business.
 
