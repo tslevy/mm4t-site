@@ -7,9 +7,9 @@ card-title: Money Moves for Teens Podcast
 card-body: I’m Talia, and I created this podcast because I think kids my age don’t get a good enough education on how to manage money. This is something we should be learning and talking about now so we’ll be better prepared for the future.
 card-button: Check out my latest episode below
 
-podcast-description: "If you’re a teenager listening to this episode, I want to let you know that now is the time to start saving for retirement. I know it sounds crazy, but there is one main reason why doing so is a good idea, and that reason is time. You are still young, which means your money has more time to grow. This episode, I’m going to talk all about Traditional IRA and Roth IRA retirement accounts."
+podcast-description: "Have you ever wondered what habits millionaires have picked up, that led them to the spot they’re at today? This week, I’m going to cover 6 traits millionaires have in common, and I’ll explain why these people may be implementing these points into their routine, and how you might possibly do the same."
 
-youtube-description: "Spending money can be really fun, especially when it’s money you know you’ve worked for and have been waiting for the moment to spend it on what you want! But, once you make your purchase, sometimes, there’s guilt that comes after. Should I have saved that money instead? Or given it to an organization that needed it more than me? Or maybe you get money and after a week, you have no idea where it went! You’ve spent it all, but you forgot what on. A way to take control of your saving and spending, while creating mental freedom when it comes to your finances, is to start budgeting. This episode, I’m going to talk about what budgeting is, and 7 ways budgeting can help you with your money."
+youtube-description: "As teenagers, we’ve grown up hearing from adults to do well in school, be accepted into a good college to get a degree, then go work and and make money through your salary to support yourself and your family; and hopefully as you age, that salary will increase. But, they don’t always mention that there different types of “work” you can do to make money. This episode, I’m focusing on active income and I’ll talk about what it is, give some examples, and explain the pros and cons."
 
 who-heading: Who should listen
 
