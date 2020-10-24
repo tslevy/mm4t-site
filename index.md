@@ -7,9 +7,9 @@ card-title: Money Moves for Teens Podcast
 card-body: I’m Talia, and I created this podcast because I think kids my age don’t get a good enough education on how to manage money. This is something we should be learning and talking about now so we’ll be better prepared for the future.
 card-button: Check out my latest episode below
 
-podcast-description: "Have you ever wondered what habits millionaires have picked up, that led them to the spot they’re at today? This week, I’m going to cover 6 traits millionaires have in common, and I’ll explain why these people may be implementing these points into their routine, and how you might possibly do the same."
+podcast-description: "I don’t know about you, but I always love the opportunity to make more money. One way you can make more money yourself, is by creating different streams of income. This episode I’m going to talk about the benefits of creating multiple streams of income, and some examples of how people may be doing this already."
 
-youtube-description: "As teenagers, we’ve grown up hearing from adults to do well in school, be accepted into a good college to get a degree, then go work and and make money through your salary to support yourself and your family; and hopefully as you age, that salary will increase. But, they don’t always mention that there different types of “work” you can do to make money. This episode, I’m focusing on active income and I’ll talk about what it is, give some examples, and explain the pros and cons."
+youtube-description: "If someone told you, you could make money while you sleep, would you believe them? Getting paid without actually doing something sounds really out there, but jobs that pay that way are more common than you may realize. This week, I’m going to talk all about passive income."
 
 who-heading: Who should listen
 
