@@ -33,8 +33,8 @@ I have used [Canva](http://canva.7eqqol.net/mmft) for the past two years and thi
 
 <a href="http://canva.7eqqol.net/mmft" class="btn btn-outline-primary">Try Canva</a>
 
-### The Non-Designer's Design Book
-As talked about in my 13th episode, [this book](https://amzn.to/2HqkPEN) is incredibly helpful when it comes to designing advertisements for your business. Usually, your advertisements will be the first thing people see when it comes to your business, and you want to make that first impression a positive one. Whether you’re designing business cards, flyers, or even an entire website— you will find lot’s of value in this book.
+### The Non-Designer’s Design Book
+As I talked about in my 13th episode, [this book](https://amzn.to/2HqkPEN) is incredibly helpful when it comes to designing advertisements for your business. Usually your advertisements will be the first thing people see when it comes to your business, and you want to make that first impression a positive one. Whether you’re designing business cards, flyers, or even an entire website, you will find lots of value in this book.
 
 <a href="https://amzn.to/2HqkPEN" class="btn btn-outline-primary">Read the book</a>
 
