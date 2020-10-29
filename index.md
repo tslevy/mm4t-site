@@ -7,7 +7,7 @@ card-title: Money Moves for Teens Podcast
 card-body: I’m Talia, and I created this podcast because I think kids my age don’t get a good enough education on how to manage money. This is something we should be learning and talking about now so we’ll be better prepared for the future.
 card-button: Check out my latest episode below
 
-podcast-description: "I don’t know about you, but I always love the opportunity to make more money. But making more money is not always a straightforward task, if you’re not receiving any raise or promotion at work. This episode I’m going to talk about the benefits of creating multiple streams of income, and some examples of how you can begin doing this as a teenager."
+podcast-description: "I don’t know about you, but I always love the opportunity to make more money. But making more money is not always a straightforward task if you’re not receiving a raise or promotion at work. This episode, I’m going to talk about the benefits of creating multiple streams of income and give some examples of how you can begin doing this as a teenager."
 
 youtube-description: "If someone told you, you could make money while you sleep, would you believe them? Getting paid without actually doing something sounds really out there, but jobs that pay that way are more common than you may realize. This week, I’m going to talk all about passive income."
 
