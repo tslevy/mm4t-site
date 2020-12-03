@@ -9,7 +9,7 @@ card-button: Check out my latest episode below
 
 podcast-description: "I don’t know about you, but I always love the opportunity to make more money. But making more money is not always a straightforward task if you’re not receiving a raise or promotion at work. This episode, I’m going to talk about the benefits of creating multiple streams of income and give some examples of how you can begin doing this as a teenager."
 
-youtube-description: "If someone told you, you could make money while you sleep, would you believe them? Getting paid without actually doing something sounds really out there, but jobs that pay that way are more common than you may realize. This week, I’m going to talk all about passive income."
+youtube-description: "The ultimate dream of a teenager is to make money without leaving the comfort of your bed. And when you first hear that, you may think well, too bad, because you need to. But, that might not be the case if you’re making something called passive income. There are a number of jobs that will make you that kind of income and this episode, I’ll talk about 7 jobs that can generate passive income for you."
 
 who-heading: Who should listen
 
