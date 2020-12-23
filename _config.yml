@@ -18,3 +18,4 @@ baseurl: "/"
 permalink: /:categories/:year/:month/:day/:title:output_ext
 
 title: Money Moves for Teens Podcast
+description: "A podcast about personal finance, for teens, by a teen."
