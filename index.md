@@ -9,7 +9,7 @@ card-button: Check out my latest episode below
 
 podcast-description: "With the number of credit card holders increasing every single year, many people are under the impression it’s impossible to live without a credit card. This episode, I’m going to talk about some of the main reasons why people decide to use and avoid using credit cards."
 
-youtube-description: "To us teens, retirement seems a long way into the future. That’s especially true for those who haven’t started working yet. But what if I told you that now is the time to start saving for retirement? This episode I’m going to cover the importance of saving for the future and 4 common retirement accounts."
+youtube-description: "I don’t know about you, but I always love the opportunity to make more money. But how might you take “making more money” into your own hands, if you’re not receiving any raise or promotion at work? One way you can make more money yourself, is by creating different streams of income. This episode I’m going to talk about the benefits of creating multiple streams of income, and some examples of how people may be doing this already."
 
 who-heading: Who should listen
 
