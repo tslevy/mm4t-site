@@ -7,9 +7,9 @@ card-title: Money Moves for Teens Podcast
 card-body: I’m Talia, and I created this podcast because I think kids my age don’t get a good enough education on how to manage money. This is something we should be learning and talking about now so we’ll be better prepared for the future.
 card-button: Check out my latest episode below
 
-podcast-description: "Did you know that you can make money just by recommending products or services you like, to others? You definitely can, and that is made possible by something called affiliate marketing. This episode, I’m going to talk all about affiliate marketing. I’ll explain what it is, who it’s best for, the benefits, and where you can start."
+podcast-description: "There is one main question you must ask yourself before starting a business. It seems so simple, but many don’t even stop to consider it. That question is “why”. Why do you want to start your business? What’s the reason behind what you do? Today, I’ll be talking about 4 significant reasons, your business must have a “why”."
 
-youtube-description: "I don’t know about you, but I always love the opportunity to make more money. But how might you take “making more money” into your own hands, if you’re not receiving any raise or promotion at work? One way you can make more money yourself, is by creating different streams of income. This episode I’m going to talk about the benefits of creating multiple streams of income, and some examples of how people may be doing this already."
+youtube-description: "With 2021 right around the corner, now is the perfect time to begin thinking about the goals you would like to set for the new year. And this powerful goal-setting method I’m talking about in this episode, may be one you’ve never considered or used before. This episode, I’m talking all about the vision board."
 
 who-heading: Who should listen
 
