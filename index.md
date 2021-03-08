@@ -7,7 +7,7 @@ card-title: Money Moves for Teens Podcast
 card-body: I’m Talia, and I created this podcast because I think kids my age don’t get a good enough education on how to manage money. This is something we should be learning and talking about now so we’ll be better prepared for the future.
 card-button: Check out my latest episode below
 
-podcast-description: "The word failure comes with a heavy weight attached. And usually a negative feeling. But what if I told you that that shouldn’t be the case? That failure should be more widely accepted and viewed as a positive thing? In this episode, I’ll be covering 5 reasons why you should reflect upon and communicate your business failures to others."
+podcast-description: "The idea of building a website can sound very intimidating to a business owner. They know they probably should do it, but they have no idea how to start. A website is super important to have if you own a business, and in this episode I'll be talking about 7 features you should make sure to include in your site."
 
 youtube-description: "So, you’re just starting to get paid. Every month a new paycheck comes in. Where are you putting that money? Are you keeping it in a drawer in your room, or are you spending all of it, out with friends? In other words, how are you managing your money? In this episode, I’ll be covering exactly how you can begin to manage your money as a teenager."
 
